@@ -77,8 +77,11 @@ print("THe Standard deviation of arrival from feeder is %.3F "%SD)
 # Output :
 
 2 6 8 9 22 12 14 90
+
 The Mean arrival rate is 20.375 
+
 The Variance of arrival from feeder is 723.484 
+
 THe Standard deviation of arrival from feeder is 26.898 
 
 # Results :
